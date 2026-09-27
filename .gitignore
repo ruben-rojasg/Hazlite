@@ -1,0 +1,6 @@
+Statements/
+Ledger/
+Config/
+Reports/
+*.plugin
+.DS_Store
